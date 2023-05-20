@@ -1,0 +1,8 @@
+<table border = 1>
+
+<tr><th>lunes</th><th>martes</th><th>jueves</th>
+<tr><td>TV</td><td>deporte</td><td>casa</td>
+<tr><td>deporte</td><td>tv</td><td>tv</td>
+<tr><td>cine</td><td>casa</td><td>cine</td>
+
+<table>
